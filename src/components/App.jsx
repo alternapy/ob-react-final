@@ -9,6 +9,7 @@ import Tasklist from './lists/TaskList';
 const App = () => {
     return (
       <div>
+        <h1>Alternapy</h1>
         <Tasklist />
         {/* <Settings /> */}
       </div>
